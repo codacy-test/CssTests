@@ -1,12 +1,10 @@
 body {
 	background-color: black;
 	border:0;
-	display:none;
+        display:none;
 }
 
 .myClass {
-background-colouur: black;
-blabla:bla;
 }
 
 .white-spacer {
@@ -17,4 +15,3 @@ blabla:bla;
 .clear-both {
 	clear: both;
 }
- 
